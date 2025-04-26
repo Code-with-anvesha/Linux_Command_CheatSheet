@@ -4,9 +4,7 @@
 This section covers the very basic concepts of writing Shell Scripts (.sh files) in Linux.
 
 
----
-
-1. 📝 What is a Shell Script?
+### 1. 📝 What is a Shell Script?
 
 Definition:
 A shell script is a file containing a series of Linux commands to automate tasks.
