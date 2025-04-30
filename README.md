@@ -1,4 +1,4 @@
-# 🐧 Linux Command CheatSheet
+# 🐧 Linux Command CheatSheet..
 
 A simple and beginner-friendly cheatsheet containing commonly used Linux commands, categorized for easier understanding and quick access.
 
